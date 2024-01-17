@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+.text-primary{
+    color: #F00;
+}
+
 
 /* header part css  */
 .header{
@@ -119,5 +123,31 @@
     border: none;
     color: #FFF;
 }
+
+
+/* party location css */
+.event-location{
+    width: 1320px;
+    height: 400px;
+    margin: 120px auto 0;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 24px;
+}
+
+.event-location-details{
+    padding: 100px 385px;
+}
+
+
+.event-location-details button{
+    padding: 5px 20px;
+    margin-top: 55px;
+    background: #f00;
+    border: none;
+    color: #FFF;
+}
+
 
 
