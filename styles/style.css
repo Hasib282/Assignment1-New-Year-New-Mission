@@ -316,7 +316,7 @@ footer{
 }
 
 .footer{
-    padding: 120px 140px 50px;
+    padding: 120px 120px 50px;
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
@@ -328,7 +328,10 @@ footer{
 }
 
 hr{
+    background: rgba(255, 255, 255, 0.15);
+    height: 1px;
     margin: 50px 0;
+    border: none;
 }
 
 .links{
