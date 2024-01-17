@@ -5,8 +5,10 @@
     padding: 0;
 }
 
+
+/* header part css  */
 .header{
-    margin: 50px 0;
+    margin: 20px 0 50px;
 }
 
 .banner{
@@ -41,3 +43,81 @@
     font-weight: 900;
     line-height: 95px;
 }
+
+
+
+/* off part css */
+
+.off{
+    width: 800px;
+    text-align: center;
+    margin: 70px auto;
+    font-family: 'Inter', sans-serif;
+}
+
+.off h3{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.off p{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.off h4{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.off img{
+    height: 350px;
+}
+
+
+/* mid-night-party css part */
+.mid-night-party{
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    
+}
+
+.mid-night-party-details{
+    padding: 70px 130px;
+    display: flex;
+    align-items: center;
+}
+
+.details h1{
+    color: #FFF;
+    font-family: 'Merriweather', serif;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin-bottom: 24px;
+}
+
+
+.details p{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+
+.details button{
+    background: none;
+    border: none;
+    color: #FFF;
+}
+
+
