@@ -308,7 +308,7 @@
 /* footer paet css */
 
 footer{
-    width: 1600px;
+    width: 1349px;
     height: 600px;
     background: #070211;
     margin: 0 auto ;
@@ -316,7 +316,7 @@ footer{
 }
 
 .footer{
-    padding: 120px 120px 50px;
+    padding: 120px 40px 50px;
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
